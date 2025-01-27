@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX5719GSD+
+D 20-Bit Voltage DAC 5V 50MHz SPI SOIC14
+K
+F https://componentsearchengine.com/Datasheets/2/MAX5719GSD+.pdf
+$ENDCMP
+#
+#End Doc Library

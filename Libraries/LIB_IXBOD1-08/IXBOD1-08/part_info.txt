@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=IXBOD1-08
+PartCategory=Diode
+PackageCategory=Other
+PinCount=2
+Version=1.5
+Released=2020-07-01 17:04:08
+Downloaded=2025-01-27 03:00:54
+3D=Y

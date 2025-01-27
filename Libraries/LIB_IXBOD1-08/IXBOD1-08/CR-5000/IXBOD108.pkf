@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IXBOD108"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IXBOD108")
+        (spec "default")
+    )
+)

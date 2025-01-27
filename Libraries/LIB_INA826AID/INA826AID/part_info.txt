@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=INA826AID
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.3
+Released=2018-03-08 16:29:27
+Downloaded=2025-01-27 04:33:01
+3D=Y

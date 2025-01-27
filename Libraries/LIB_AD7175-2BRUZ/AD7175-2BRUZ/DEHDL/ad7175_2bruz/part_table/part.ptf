@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD7175_2BRUZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD7175-2BRUZ" (!) = "", "SOP65P640X120-24N", "Small Outline Packages", "584-AD7175-2BRUZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD7175-2BRUZ?qs=edjv0jo2O1ZYeO73Tf3Ohw%3D%3D", "Analog Devices AD7175-2BRUZ, 24 bit DSP, Microwire, QSPI, SPI ADC, Dual Differential Input, 24-Pin TSSOP", "https://www.analog.com/media/en/technical-documentation/data-sheets/ad7175-2.pdf", "1.2 mm"
+END_PART
+
+END.

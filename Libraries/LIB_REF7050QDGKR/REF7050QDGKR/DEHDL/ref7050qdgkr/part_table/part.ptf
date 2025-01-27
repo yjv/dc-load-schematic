@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'REF7050QDGKR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "REF7050QDGKR" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "", "", "Voltage References REF70XX  5.0 V LOW NOISE DGK", "https://www.ti.com/lit/ds/symlink/ref70.pdf?ts=1705897089094&ref_url=https%253A%252F%252Fwww.mouser.mx%252F", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX5719GSD+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.1
+Released=2018-04-10 15:52:15
+Downloaded=2025-01-27 04:53:16
+3D=Y

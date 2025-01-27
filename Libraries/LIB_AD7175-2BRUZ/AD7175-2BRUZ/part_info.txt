@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD7175-2BRUZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=24
+Version=2.1
+Released=2019-02-15 10:07:55
+Downloaded=2025-01-27 03:32:21
+3D=Y

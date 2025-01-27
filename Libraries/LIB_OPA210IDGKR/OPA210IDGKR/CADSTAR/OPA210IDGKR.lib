@@ -1,0 +1,16 @@
+.OPA210IDGKR :1 ;Operational Amplifiers - Op Amps 2.2-nV/vHz, low-power, 36-V operational amplifier
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="-IN" 3="+IN" 4="V-" 5="NC_2" 6="OUT" 7="V+" 8="NC_3"
+*MXP 8
+*DFN OPA210IDGKR
+~!Mouser Part Number (595-OPA210IDGKR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA210IDGKR?qs=pBJMDPsKWf235pNNdDlWqg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA210IDGKR)
+~!Link Datasheet (-)
+~!Height (1.1mm)
+~!3D_Model (OPA210IDGKR)
+OPA210IDGKR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

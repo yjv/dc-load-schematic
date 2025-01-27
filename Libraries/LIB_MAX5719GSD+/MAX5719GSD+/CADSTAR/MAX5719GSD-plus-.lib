@@ -1,0 +1,16 @@
+.MAX5719GSD-plus- :1 ;20-Bit Voltage DAC 5V 50MHz SPI SOIC14
+SOIC127P600X175-14N
+*STM IC
+*NGS
+*PLB 1="RFB" 2="OUT" 3="AGNDF" 4="AGNDS" 5="REFS" 6="REFF" 7="'CS'" 8="SCLK" 9="NC" 10="DIN" 11="'LDAC'" 12="DGND" 13="INV" 14="VDD"
+*MXP 14
+*DFN MAX5719GSD-plus-
+~!Mouser Part Number (700-MAX5719GSD+)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX5719GSD%2b?qs=AfeIN4OqR0AnoTrmfGA2Mg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX5719GSD+)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/MAX5719GSD+.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX5719GSD+)
+MAX5719GSD-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

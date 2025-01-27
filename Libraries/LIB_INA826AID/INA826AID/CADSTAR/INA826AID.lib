@@ -1,0 +1,16 @@
+.INA826AID :1 ;Texas Instruments INA826AID Instrumentation Amplifier, 150uV Offset 1MHz GBW, CMMR 80dB, 2.7  36 V, 8-Pin SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="-IN" 2="RG_1" 3="RG_2" 4="+IN" 5="-VS" 6="REF" 7="VOUT" 8="+VS"
+*MXP 8
+*DFN INA826AID
+~!Mouser Part Number (595-INA826AID)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA826AID?qs=RqytGdBYyUH0CDtkCzl1iw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA826AID)
+~!Link Datasheet (http://www.ti.com/lit/gpn/ina826)
+~!Height (1.75mm)
+~!3D_Model (INA826AID)
+INA826AID
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

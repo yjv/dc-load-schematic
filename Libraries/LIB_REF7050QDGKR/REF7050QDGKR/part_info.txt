@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=REF7050QDGKR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2024-01-22 04:35:12
+Downloaded=2025-01-27 04:03:23
+3D=Y

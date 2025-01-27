@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IXBOD1-08
+D Sidacs 1 Amps 800V
+K
+F http://www.hotenda.com/datasheet-html/522866/1/IXBOD1-08.html
+$ENDCMP
+#
+#End Doc Library

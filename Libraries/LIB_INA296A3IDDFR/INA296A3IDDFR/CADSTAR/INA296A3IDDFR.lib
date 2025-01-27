@@ -1,0 +1,16 @@
+.INA296A3IDDFR :1 ;Current Sense Amplifiers -5-V to 110-V, bidirectional, 1.1-MHz 8-V/us ultraprecise current sense amplifier 8-SOT-23-THIN -40 to 125
+SOT65P280X110-8N
+*STM IC
+*NGS
+*PLB 1="IN-" 2="GND" 3="REF2" 4="NC" 5="OUT" 6="VS" 7="REF1" 8="IN+"
+*MXP 8
+*DFN INA296A3IDDFR
+~!Mouser Part Number (595-INA296A3IDDFR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA296A3IDDFR?qs=IPgv5n7u5QZT1udeg9AMMQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA296A3IDDFR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/ina296a.pdf?ts=1703168725565&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DINA296A1IDR%2526nr%253D3)
+~!Height (1.1mm)
+~!3D_Model (INA296A3IDDFR)
+INA296A3IDDFR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

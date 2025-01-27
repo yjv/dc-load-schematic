@@ -1,0 +1,16 @@
+.REF7050QDGKR :1 ;Voltage References REF70XX  5.0 V LOW NOISE DGK
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="EN" 2="VIN" 3="GND_1" 4="GND_2" 5="GND_3" 6="OUTS" 7="OUTF" 8="GND_4"
+*MXP 8
+*DFN REF7050QDGKR
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (REF7050QDGKR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/ref70.pdf?ts=1705897089094&ref_url=https%253A%252F%252Fwww.mouser.mx%252F)
+~!Height (1.1mm)
+~!3D_Model (REF7050QDGKR)
+REF7050QDGKR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

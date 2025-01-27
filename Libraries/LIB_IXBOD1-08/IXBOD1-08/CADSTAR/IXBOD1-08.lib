@@ -1,0 +1,16 @@
+.IXBOD1-08 :1 ;Sidacs 1 Amps 800V
+IXBOD108
+*STM D
+*NGS
+*PLB 1="A" 2="K"
+*MXP 2
+*DFN IXBOD1-08
+~!Mouser Part Number (747-IXBOD1-08)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/IXYS/IXBOD1-08?qs=t7yjd2JO%2FgS4U23Iqe6lMg%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (IXBOD1-08)
+~!Link Datasheet (http://www.hotenda.com/datasheet-html/522866/1/IXBOD1-08.html)
+~!Height (4mm)
+~!3D_Model (IXBOD1-08)
+IXBOD1-08
+1.1!U 2.1!U 

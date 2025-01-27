@@ -1,0 +1,16 @@
+.AD7175-2BRUZ :1 ;Analog Devices AD7175-2BRUZ, 24 bit DSP, Microwire, QSPI, SPI ADC, Dual Differential Input, 24-Pin TSSOP
+SOP65P640X120-24N
+*STM IC
+*NGS
+*PLB 1="AIN4" 2="REF-" 3="REF+" 4="REFOUT" 5="REGCAPA" 6="AVSS" 7="AVDD1" 8="AVDD2" 9="XTAL1" 10="XTAL2/CLKIO" 11="DOUT/'RDY'" 12="DIN" 13="SCLK" 14="'CS'" 15="'SYNC'/'ERROR'" 16="IOVDD" 17="DGND" 18="REGCAPD" 19="GPIO0" 20="GPIO1" 21="AIN0" 22="AIN1" 23="AIN2" 24="AIN3"
+*MXP 24
+*DFN AD7175-2BRUZ
+~!Mouser Part Number (584-AD7175-2BRUZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD7175-2BRUZ?qs=edjv0jo2O1ZYeO73Tf3Ohw%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD7175-2BRUZ)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7175-2.pdf)
+~!Height (1.2mm)
+~!3D_Model (AD7175-2BRUZ)
+AD7175-2BRUZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

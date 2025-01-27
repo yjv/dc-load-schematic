@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IXBOD1_08'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "IXBOD1-08" (!) = "", "IXBOD108", "Other", "747-IXBOD1-08", "https://www.mouser.co.uk/ProductDetail/IXYS/IXBOD1-08?qs=t7yjd2JO%2FgS4U23Iqe6lMg%3D%3D", "Sidacs 1 Amps 800V", "http://www.hotenda.com/datasheet-html/522866/1/IXBOD1-08.html", "4 mm"
+END_PART
+
+END.

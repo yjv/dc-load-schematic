@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA826AID
+D Texas Instruments INA826AID Instrumentation Amplifier, 150uV Offset 1MHz GBW, CMMR 80dB, 2.7  36 V, 8-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/ina826
+$ENDCMP
+#
+#End Doc Library

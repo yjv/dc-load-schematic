@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA210IDGKR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-09-13 11:17:37
+Downloaded=2025-01-27 03:44:54
+3D=Y
