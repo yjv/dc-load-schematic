@@ -1,0 +1,16 @@
+.STW12N120K5 :1 ;MOSFET PTD HIGH VOLTAGE
+TO545P515X1560X2445-3P
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN STW12N120K5
+~!Mouser Part Number (511-STW12N120K5)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=511-STW12N120K5)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STW12N120K5)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/STW12N120K5.pdf)
+~!Height (5.15mm)
+~!3D_Model (STW12N120K5)
+STW12N120K5
+1.1!U 2.1!U 3.1!U 

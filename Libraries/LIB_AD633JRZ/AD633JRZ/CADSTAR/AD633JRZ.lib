@@ -1,0 +1,16 @@
+.AD633JRZ :1 ;AD633JRZ, Analogue Multiplier 4-Bits 8-Pin SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="Y1" 2="Y2" 3="-VS" 4="Z" 5="W" 6="+VS" 7="X1" 8="X2"
+*MXP 8
+*DFN AD633JRZ
+~!Mouser Part Number (584-AD633JRZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD633JRZ?qs=NmRFExCfTkHsQMKUgIw9Ig%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD633JRZ)
+~!Link Datasheet (http://www.analog.com/static/imported-files/data_sheets/AD633.pdf)
+~!Height (1.75mm)
+~!3D_Model (AD633JRZ)
+AD633JRZ
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

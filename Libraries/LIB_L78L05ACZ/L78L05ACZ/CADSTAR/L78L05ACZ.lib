@@ -1,0 +1,16 @@
+.L78L05ACZ :1 ;Linear Voltage Regulators 5.0V 0.1A Positive
+L78L05ACZ
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="GND" 3="VIN"
+*MXP 3
+*DFN L78L05ACZ
+~!Mouser Part Number (511-L78L05ACZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L05ACZ?qs=C%2FEejvvdwQ7shwSHkbqaWA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (L78L05ACZ)
+~!Link Datasheet (https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGST-S-A0002857926/SGST-S-A0002857926-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)
+~!Height (4.95mm)
+~!3D_Model (L78L05ACZ)
+L78L05ACZ
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACPL_227_50BE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "ACPL-227-50BE" (!) = "", "SOIC127P700X220-8N", "Small Outline Packages", "630-ACPL-227-50BE", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-227-50BE?qs=zR1%252BXmOs1xbjxbgospYJ%2FQ%3D%3D", "ACPL-227-50BE Broadcom, Optocoupler DC Input Phototransistor Output, 8-Pin SOIC, Surface Mount", "https://docs.broadcom.com/docs/AV02-0752EN", "2.2 mm"
+END_PART
+
+END.

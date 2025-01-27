@@ -1,0 +1,126 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "L78L05ACZ"
+   (description "Linear Voltage Regulators 5.0V 0.1A Positive")
+   (family "ANA")
+   (package "L78L05ACZ")
+   (attribute "Datasheet Link" "https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGST-S-A0002857926/SGST-S-A0002857926-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0")
+   (attribute "Geometry.Height" "4.95mm")
+   (attribute "Mouser Part Number" "511-L78L05ACZ")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L05ACZ?qs=C%2FEejvvdwQ7shwSHkbqaWA%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "L78L05ACZ")
+   (gate
+    (symbol "L78L05ACZ")
+    (pin "VOUT" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "VIN" 3 PS)
+   )
+  )
+  (symbol "L78L05ACZ"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "L78L05ACZ"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.83 3.35)
+      (pt 4.62 3.35)
+      (pt 4.62 -2.655)
+      (pt -2.83 -2.655)
+      (pt -2.83 3.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.08 0)
+      (pt 3.62 0)
+      (arc (pt 3.620 0.000) (pt -1.080 -2.350) (pt 3.620 2.350) (start 180.0) (sweep .0))
+      (pt -1.08 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.08 0)
+      (pt -0.53 -1.655))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 3.62 0)
+      (pt 3.07 -1.655)
+      (pt -0.53 -1.655))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.08 0)
+      (pt -0.53 -1.655)
+      (pt 3.07 -1.655)
+      (pt 3.62 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.7 0)
+      (arc (pt -1.700 0.000) (pt -1.900 -0.100) (pt -1.700 0.100) (start 180.0) (sweep .0))
+      (pt -1.9 0)
+      (arc (pt -1.900 0.000) (pt -1.900 -0.100) (pt -1.700 0.100) (start 180.0) (sweep -180.0))
+      (pt -1.7 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 1.270 0.000) (padstack 0))
+   (leg 3 (pt 2.540 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.76)
+    (plated true)
+    (pad (layer TCOP) (round 1.000))
+    (pad (layer INNER) (round 1.000))
+    (pad (layer BCOP) (round 1.000))
+   )
+   (model "L78L05ACZ.stp"
+    (euler 0 0 90)
+    (offset 1.25 0.009999999776482582 2.2100000381469727)
+   )
+  )
+ )
+)

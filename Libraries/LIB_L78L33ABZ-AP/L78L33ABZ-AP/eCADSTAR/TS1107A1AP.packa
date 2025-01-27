@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "L78L33ABZ-AP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-11-28-15:16:34)
+    (mountForm default
+        (footprintRef "TS1107A1AP")
+        (spec "System")
+    )
+)

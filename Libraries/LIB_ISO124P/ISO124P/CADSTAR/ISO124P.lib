@@ -1,0 +1,16 @@
+.ISO124P :1 ;Isolating amplifier,ISO124P DIP16 1500V
+DIP794W56P254L2000H533Q16N
+*STM IC
+*NGS
+*PLB 1="+VS1" 2="-VS1" 3="NO PIN_1" 4="NO PIN_2" 5="NO PIN_3" 6="NO PIN_4" 7="VOUT" 8="GND2" 9="+VS2" 10="-VS2" 11="NO PIN_5" 12="NO PIN_6" 13="NO PIN_7" 14="NO PIN_8" 15="VIN" 16="GND 1"
+*MXP 16
+*DFN ISO124P
+~!Mouser Part Number (595-ISO124P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO124P?qs=VBduBm9rCJRWjOmDxakXgA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (ISO124P)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/ISO124P.pdf)
+~!Height (5.33mm)
+~!3D_Model (ISO124P)
+ISO124P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

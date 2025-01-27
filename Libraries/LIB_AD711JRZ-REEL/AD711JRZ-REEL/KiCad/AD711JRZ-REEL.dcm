@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD711JRZ-REEL
+D AD711JRZ-REEL, Operational Amplifier BiFET 4MHz Rail-Rail, 8-Pin SOIC
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD711.pdf
+$ENDCMP
+#
+#End Doc Library

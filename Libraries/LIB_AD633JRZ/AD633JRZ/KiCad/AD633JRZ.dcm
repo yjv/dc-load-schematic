@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD633JRZ
+D AD633JRZ, Analogue Multiplier 4-Bits 8-Pin SOIC
+K
+F http://www.analog.com/static/imported-files/data_sheets/AD633.pdf
+$ENDCMP
+#
+#End Doc Library

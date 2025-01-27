@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STW12N120K5
+D MOSFET PTD HIGH VOLTAGE
+K
+F https://componentsearchengine.com/Datasheets/1/STW12N120K5.pdf
+$ENDCMP
+#
+#End Doc Library

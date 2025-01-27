@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD633JRZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=7.2
+Released=2015-04-16 09:48:08
+Downloaded=2024-12-01 20:57:35
+3D=Y

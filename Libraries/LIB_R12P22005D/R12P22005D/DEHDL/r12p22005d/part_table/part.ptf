@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'R12P22005D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "R12P22005D" (!) = "", "R15P21503D", "Other", "919-R12P22005D", "https://www.mouser.co.uk/ProductDetail/RECOM-Power/R12P22005D?qs=IbBl3rwNelMC3ifgsyAt%2FQ%3D%3D", "Recom Through Hole 2W Isolated DC-DC Converter, I/O isolation 5.2kV dc, Vout -5 V dc, 20 V dc", "https://componentsearchengine.com/Datasheets/2/R12P22005D.pdf", "13 mm"
+END_PART
+
+END.

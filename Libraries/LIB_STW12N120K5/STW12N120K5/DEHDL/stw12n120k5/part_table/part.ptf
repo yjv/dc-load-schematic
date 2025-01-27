@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STW12N120K5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STW12N120K5" (!) = "", "TO545P515X1560X2445-3P", "Transistor Outline, Vertical", "511-STW12N120K5", "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STW12N120K5", "MOSFET PTD HIGH VOLTAGE", "https://componentsearchengine.com/Datasheets/1/STW12N120K5.pdf", "5.15 mm"
+END_PART
+
+END.

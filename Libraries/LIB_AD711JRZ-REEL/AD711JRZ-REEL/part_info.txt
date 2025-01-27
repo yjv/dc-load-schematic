@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD711JRZ-REEL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2015-05-18 09:16:09
+Downloaded=2024-12-01 20:59:12
+3D=Y

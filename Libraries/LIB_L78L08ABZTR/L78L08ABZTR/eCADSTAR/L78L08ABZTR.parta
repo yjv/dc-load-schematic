@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_424359"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-28-04:25:16)
+    (utime 2024-07-16-07:06:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "L78L08ABZTR")
+)
+
+
+(pinAssign "ECS_424359"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-28-04:25:16)
+    (utime 2024-07-16-07:06:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VIN") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_424359")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "L78L08ABZTR")
+)
+
+
+(part "L78L08ABZTR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-28-04:25:16)
+    (utime 2024-07-16-07:06:58)
+    (packageRef "L78L08ABZTR")
+    (pinAssignRef "ECS_424359")
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VIN") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA TO-92-3")
+    (property "Mouser_Part_Number" "511-L78L08ABZ-TR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L08ABZTR?qs=z47m7sMe7DEuCnwaonDPrg%3D%3D")
+    (property "Manufacturer_Name" "STMicroelectronics")
+    (property "Manufacturer_Part_Number" "L78L08ABZTR")
+    (property "Datasheet_Link" "https://www.st.com/resource/en/datasheet/l78l.pdf")
+    (property "compAreaTopHeight" 8.2)
+)
+
+

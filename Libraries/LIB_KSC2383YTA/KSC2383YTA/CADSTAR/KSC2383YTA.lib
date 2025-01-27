@@ -1,0 +1,16 @@
+.KSC2383YTA :1 ;Fairchild KSC2383YTA NPN Bipolar Transistor, 1 A, 160 V, 3-Pin TO-92
+TO-92-3
+*STM Q
+*NGS
+*PLB 1="E" 2="C" 3="B"
+*MXP 3
+*DFN KSC2383YTA
+~!Mouser Part Number (512-KSC2383YTA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/KSC2383YTA?qs=JV7lzlMm3yJNKQVlvFWlyg%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (KSC2383YTA)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/KSC945-D.pdf)
+~!Height (-)
+~!3D_Model (KSC2383YTA)
+KSC2383YTA
+1.1!U 2.1!U 3.1!U 

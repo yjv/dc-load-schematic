@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP3564_E_ST'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP3564-E/ST" (!) = "", "SOP65P640X120-20N", "Small Outline Packages", "579-MCP3564-E/ST", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP3564-E-ST?qs=xZ%2FP%252Ba9zWqaBYjkYebfRjg%3D%3D", "Analog to Digital Converters - ADC", "https://www.arrow.com/en/products/mcp3564-est/microchip-technology", "1.2 mm"
+END_PART
+
+END.

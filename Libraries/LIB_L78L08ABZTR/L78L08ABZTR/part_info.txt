@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L78L08ABZTR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=5.1
+Released=2022-08-28 04:25:16
+Downloaded=2024-12-01 21:26:56
+3D=Y

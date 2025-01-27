@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L33ABZ-AP
+D Voltage Regulator 3.3V 0.1A TO92 L78L33ABZ-AP, Voltage Regulator, 0.1A 3.3 V, 3-Pin TO-92
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000446.pdf
+$ENDCMP
+#
+#End Doc Library

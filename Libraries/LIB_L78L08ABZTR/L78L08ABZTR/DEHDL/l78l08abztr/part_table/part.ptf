@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L08ABZTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L08ABZTR" (!) = "", "L78L08ABZTR", "Other", "511-L78L08ABZ-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L08ABZTR?qs=z47m7sMe7DEuCnwaonDPrg%3D%3D", "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA TO-92-3", "https://www.st.com/resource/en/datasheet/l78l.pdf", "8.2 mm"
+END_PART
+
+END.

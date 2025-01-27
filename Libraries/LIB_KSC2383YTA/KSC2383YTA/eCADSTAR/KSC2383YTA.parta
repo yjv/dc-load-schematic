@@ -1,0 +1,69 @@
+(Japanese_coding: sjis)
+(function "ECS_439571"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-27-14:48:35)
+    (utime 2024-09-19-14:45:22)
+    (interface
+        (port "1" (symbPinId 2) (portType INOUT))
+        (port "2" (symbPinId 3) (portType INOUT))
+        (port "3" (symbPinId 1) (portType INOUT))
+    )
+    (property "symbolName" "KSC2383YTA")
+)
+
+
+(pinAssign "ECS_439571"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-27-14:48:35)
+    (utime 2024-09-19-14:45:22)
+    (interface
+        (port "1" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "C") (portType INOUT))
+        (port "3" (symbPinId 1) (portName "B") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_439571")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KSC2383YTA")
+)
+
+
+(part "KSC2383YTA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-27-14:48:35)
+    (utime 2024-09-19-14:45:22)
+    (packageRef "KSC2383YTA")
+    (pinAssignRef "ECS_439571")
+    (interface
+        (port "1" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "C") (portType INOUT))
+        (port "3" (symbPinId 1) (portName "B") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "Fairchild KSC2383YTA NPN Bipolar Transistor, 1 A, 160 V, 3-Pin TO-92")
+    (property "Mouser_Part_Number" "512-KSC2383YTA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/KSC2383YTA?qs=JV7lzlMm3yJNKQVlvFWlyg%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "KSC2383YTA")
+    (property "Datasheet_Link" "http://www.onsemi.com/pub/Collateral/KSC945-D.pdf")
+)
+
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO124P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO124P" (!) = "", "DIP794W56P254L2000H533Q16N", "Dual-In-Line Packages", "595-ISO124P", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO124P?qs=VBduBm9rCJRWjOmDxakXgA%3D%3D", "Isolating amplifier,ISO124P DIP16 1500V", "http://componentsearchengine.com/Datasheets/1/ISO124P.pdf", "5.33 mm"
+END_PART
+
+END.

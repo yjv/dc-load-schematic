@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=KSC2383YTA
+PartCategory=Transistor BJT NPN
+PackageCategory=Other
+PinCount=3
+Version=2.3
+Released=2017-12-27 14:48:35
+Downloaded=2024-12-01 21:08:12
+3D=Y

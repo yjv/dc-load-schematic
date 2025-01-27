@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R12P22005D
+D Recom Through Hole 2W Isolated DC-DC Converter, I/O isolation 5.2kV dc, Vout -5 V dc, 20 V dc
+K
+F https://componentsearchengine.com/Datasheets/2/R12P22005D.pdf
+$ENDCMP
+#
+#End Doc Library

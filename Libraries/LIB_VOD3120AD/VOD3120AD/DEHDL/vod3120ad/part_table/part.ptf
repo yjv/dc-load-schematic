@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VOD3120AD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VOD3120AD" (!) = "", "DIP762W60P254L968H450Q8N", "Dual-In-Line Packages", "78-VOD3120AD", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VOD3120AD?qs=l7cgNqFNU1hxBq1Lv%2FY4fQ%3D%3D", "Gate Drivers IGBT & MOSFET Drvr uL, cUL, CQC DIP-8", "https://componentsearchengine.com/Datasheets/2/VOD3120AD.pdf", "4.5 mm"
+END_PART
+
+END.

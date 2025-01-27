@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L05ACZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L05ACZ" (!) = "", "L78L05ACZ", "Other", "511-L78L05ACZ", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L05ACZ?qs=C%2FEejvvdwQ7shwSHkbqaWA%3D%3D", "Linear Voltage Regulators 5.0V 0.1A Positive", "https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGST-S-A0002857926/SGST-S-A0002857926-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0", "4.95 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP3564-E/ST
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=1.1
+Released=2020-09-01 13:37:11
+Downloaded=2024-11-10 01:20:23
+3D=Y

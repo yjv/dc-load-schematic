@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=VOD3120AD
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=1.1
+Released=2020-06-05 16:01:15
+Downloaded=2024-10-21 03:35:13
+3D=Y

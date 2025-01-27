@@ -1,0 +1,136 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KSC2383YTA"
+   (description "Fairchild KSC2383YTA NPN Bipolar Transistor, 1 A, 160 V, 3-Pin TO-92")
+   (family "TRX")
+   (package "TO-92-3")
+   (attribute "Datasheet Link" "http://www.onsemi.com/pub/Collateral/KSC945-D.pdf")
+   (attribute "Mouser Part Number" "512-KSC2383YTA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/KSC2383YTA?qs=JV7lzlMm3yJNKQVlvFWlyg%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "KSC2383YTA")
+   (gate
+    (symbol "KSC2383YTA")
+    (pin "B" 3 PS)
+    (pin "E" 1 PS)
+    (pin "C" 2 PS)
+   )
+  )
+  (symbol "KSC2383YTA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 150) (pt 300 -150))
+   )
+   (graphic
+    (stroke 20)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 50) (pt 400 150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -50) (pt 400 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -150) (pt 400 -200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 150) (pt 400 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 330 -100) (pt 350 -80) (pt 370 -120) (pt 330 -100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 -300) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 300) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TO-92-3"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (arc (pt -2.38 -1.79) (pt -2.77094 -3.14189) (pt 2.77094 2.4) (start -241.6) (sweep 210.8))
+      (pt 2.38 -1.79))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.38 -1.79)
+      (pt 2.38 -1.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.38 -1.79)
+      (pt 2.38 -1.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (arc (pt -2.40804 1) (pt -2.77094 -3.14189) (pt 2.77094 2.4) (start -120.7) (sweep 150.3))
+      (pt 2.40804 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -3.854 0.051) (pt -3.772 0.051)
+     )
+    )
+   )
+   (leg 1 (pt -2.6 0) (padstack 0))
+   (leg 2 (pt 0 0) (padstack 0))
+   (leg 3 (pt 2.6 0) (padstack 0))
+   (padstack 0
+    (hole 0.96)
+    (plated true)
+    (pad (layer TCOP) (round 1.5))
+    (pad (layer INNER) (round 1.5))
+    (pad (layer BCOP) (round 1.5))
+   )
+   (model "KSC2383YTA.stp"
+    (euler -90 0 0)
+    (offset -0.05000000074505806 0.1899999976158142 7)
+   )
+  )
+ )
+)

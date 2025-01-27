@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L33ABZ_AP'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L33ABZ-AP" (!) = "", "TS1107A1AP", "Other", "511-L78L33ABZ-AP", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L33ABZ-AP?qs=7IaIRco65plqHZGvVBuyKw%3D%3D", "Voltage Regulator 3.3V 0.1A TO92 L78L33ABZ-AP, Voltage Regulator, 0.1A 3.3 V, 3-Pin TO-92", "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000446.pdf", "4.95 mm"
+END_PART
+
+END.

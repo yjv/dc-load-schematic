@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "L78L08ABZTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "L78L08ABZTR")
+        (spec "default")
+    )
+)

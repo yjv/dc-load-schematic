@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3564-E_ST
+D Analog to Digital Converters - ADC
+K
+F https://www.arrow.com/en/products/mcp3564-est/microchip-technology
+$ENDCMP
+#
+#End Doc Library

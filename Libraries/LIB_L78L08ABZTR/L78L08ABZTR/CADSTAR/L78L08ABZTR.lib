@@ -1,0 +1,16 @@
+.L78L08ABZTR :1 ;Linear Voltage Regulator IC Positive Fixed 1 Output 100mA TO-92-3
+L78L08ABZTR
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="GND" 3="VIN"
+*MXP 3
+*DFN L78L08ABZTR
+~!Mouser Part Number (511-L78L08ABZ-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L08ABZTR?qs=z47m7sMe7DEuCnwaonDPrg%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (L78L08ABZTR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/l78l.pdf)
+~!Height (8.2mm)
+~!3D_Model (L78L08ABZTR)
+L78L08ABZTR
+1.1!U 2.1!U 3.1!U 

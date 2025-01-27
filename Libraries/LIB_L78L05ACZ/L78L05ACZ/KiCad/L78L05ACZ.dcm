@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L05ACZ
+D Linear Voltage Regulators 5.0V 0.1A Positive
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGST-S-A0002857926/SGST-S-A0002857926-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+$ENDCMP
+#
+#End Doc Library

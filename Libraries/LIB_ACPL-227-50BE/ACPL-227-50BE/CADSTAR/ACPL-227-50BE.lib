@@ -1,0 +1,16 @@
+.ACPL-227-50BE :1 ;ACPL-227-50BE Broadcom, Optocoupler DC Input Phototransistor Output, 8-Pin SOIC, Surface Mount
+SOIC127P700X220-8N
+*STM IC
+*NGS
+*PLB 1="ANODE_1" 2="CATHODE_1" 3="ANODE_2" 4="CATHODE_2" 5="EMITTER_1" 6="COLLECTOR_1" 7="EMITTER_2" 8="COLLECTOR_2"
+*MXP 8
+*DFN ACPL-227-50BE
+~!Mouser Part Number (630-ACPL-227-50BE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-227-50BE?qs=zR1%252BXmOs1xbjxbgospYJ%2FQ%3D%3D)
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (ACPL-227-50BE)
+~!Link Datasheet (https://docs.broadcom.com/docs/AV02-0752EN)
+~!Height (2.2mm)
+~!3D_Model (ACPL-227-50BE)
+ACPL-227-50BE
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

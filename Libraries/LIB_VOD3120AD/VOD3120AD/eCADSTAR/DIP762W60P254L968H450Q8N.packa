@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VOD3120AD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-05-16:01:15)
+    (mountForm default
+        (footprintRef "DIP762W60P254L968H450Q8N")
+        (spec "System")
+    )
+)

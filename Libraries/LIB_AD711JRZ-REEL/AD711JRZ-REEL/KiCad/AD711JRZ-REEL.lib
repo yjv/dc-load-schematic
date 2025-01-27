@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AD711JRZ-REEL
+#/2751/1279862/2.50/8/3/Integrated Circuit
+DEF AD711JRZ-REEL IC 0 30 Y Y 1 F N
+F0 "IC" 2150 300 50 H V L CNN
+F1 "AD711JRZ-REEL" 2150 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 2150 100 50 H I L CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD711.pdf" 2150 0 50 H I L CNN
+F4 "AD711JRZ-REEL, Operational Amplifier BiFET 4MHz Rail-Rail, 8-Pin SOIC" 2150 -100 50 H I L CNN "Description"
+F5 "1.75" 2150 -200 50 H I L CNN "Height"
+F6 "584-AD711JRZ-R" 2150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD711JRZ-REEL?qs=NmRFExCfTkE2B2XETlmmwA%3D%3D" 2150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Analog Devices" 2150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AD711JRZ-REEL" 2150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OFFSET_NULL_1 1 0 0 200 R 50 50 0 0 P
+X INVERTING_INPUT 2 0 -100 200 R 50 50 0 0 I
+X NONINVERTING_INPUT 3 0 -200 200 R 50 50 0 0 I
+X -VS 4 0 -300 200 R 50 50 0 0 P
+X NC 8 2300 0 200 L 50 50 0 0 N
+X +VS 7 2300 -100 200 L 50 50 0 0 P
+X OUTPUT 6 2300 -200 200 L 50 50 0 0 O
+X OFFSET_NULL_2 5 2300 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 2100 100 2100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

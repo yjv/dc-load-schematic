@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KSC2383YTA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "KSC2383YTA" (!) = "", "TO-92-3", "Other", "512-KSC2383YTA", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/KSC2383YTA?qs=JV7lzlMm3yJNKQVlvFWlyg%3D%3D", "Fairchild KSC2383YTA NPN Bipolar Transistor, 1 A, 160 V, 3-Pin TO-92", "http://www.onsemi.com/pub/Collateral/KSC945-D.pdf"
+END_PART
+
+END.

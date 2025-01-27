@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ACPL-227-50BE
+#/557746/1279862/2.50/8/3/Integrated Circuit
+DEF ACPL-227-50BE IC 0 30 Y Y 1 F N
+F0 "IC" 1550 300 50 H V L CNN
+F1 "ACPL-227-50BE" 1550 200 50 H V L CNN
+F2 "SOIC127P700X220-8N" 1550 100 50 H I L CNN
+F3 "https://docs.broadcom.com/docs/AV02-0752EN" 1550 0 50 H I L CNN
+F4 "ACPL-227-50BE Broadcom, Optocoupler DC Input Phototransistor Output, 8-Pin SOIC, Surface Mount" 1550 -100 50 H I L CNN "Description"
+F5 "2.2" 1550 -200 50 H I L CNN "Height"
+F6 "630-ACPL-227-50BE" 1550 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-227-50BE?qs=zR1%252BXmOs1xbjxbgospYJ%2FQ%3D%3D" 1550 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Avago Technologies" 1550 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ACPL-227-50BE" 1550 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ANODE_1 1 0 0 200 R 50 50 0 0 P
+X CATHODE_1 2 0 -100 200 R 50 50 0 0 P
+X ANODE_2 3 0 -200 200 R 50 50 0 0 P
+X CATHODE_2 4 0 -300 200 R 50 50 0 0 P
+X COLLECTOR_2 8 1700 0 200 L 50 50 0 0 P
+X EMITTER_2 7 1700 -100 200 L 50 50 0 0 P
+X COLLECTOR_1 6 1700 -200 200 L 50 50 0 0 P
+X EMITTER_1 5 1700 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

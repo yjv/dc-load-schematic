@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO124P
+D Isolating amplifier,ISO124P DIP16 1500V
+K
+F http://componentsearchengine.com/Datasheets/1/ISO124P.pdf
+$ENDCMP
+#
+#End Doc Library

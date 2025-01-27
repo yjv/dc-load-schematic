@@ -1,0 +1,16 @@
+.VOD3120AD :1 ;Gate Drivers IGBT & MOSFET Drvr uL, cUL, CQC DIP-8
+DIP762W60P254L968H450Q8N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="A" 3="C" 4="NC_2" 5="VEE" 6="VO_1" 7="VO_2" 8="VCC"
+*MXP 8
+*DFN VOD3120AD
+~!Mouser Part Number (78-VOD3120AD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VOD3120AD?qs=l7cgNqFNU1hxBq1Lv%2FY4fQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (VOD3120AD)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/VOD3120AD.pdf)
+~!Height (4.5mm)
+~!3D_Model (VOD3120AD)
+VOD3120AD
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

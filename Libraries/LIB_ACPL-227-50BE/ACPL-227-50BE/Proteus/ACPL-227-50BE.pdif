@@ -1,0 +1,144 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ACPL-227-50BE"
+   (description "ACPL-227-50BE Broadcom, Optocoupler DC Input Phototransistor Output, 8-Pin SOIC, Surface Mount")
+   (family "ANA")
+   (package "SOIC127P700X220-8N")
+   (attribute "Datasheet Link" "https://docs.broadcom.com/docs/AV02-0752EN")
+   (attribute "Geometry.Height" "2.2mm")
+   (attribute "Mouser Part Number" "630-ACPL-227-50BE")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-227-50BE?qs=zR1%252BXmOs1xbjxbgospYJ%2FQ%3D%3D")
+   (attribute "Manufacturer_Name" "Avago Technologies")
+   (attribute "Manufacturer_Part_Number" "ACPL-227-50BE")
+   (gate
+    (symbol "ACPL-227-50BE")
+    (pin "ANODE_1" 1 PS)
+    (pin "CATHODE_1" 2 PS)
+    (pin "ANODE_2" 3 PS)
+    (pin "CATHODE_2" 4 PS)
+    (pin "COLLECTOR_2" 8 PS)
+    (pin "EMITTER_2" 7 PS)
+    (pin "COLLECTOR_1" 6 PS)
+    (pin "EMITTER_1" 5 PS)
+   )
+  )
+  (symbol "ACPL-227-50BE"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P700X220-8N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.3 3)
+      (pt 4.3 3)
+      (pt 4.3 -3)
+      (pt -4.3 -3)
+      (pt -4.3 3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 2.6)
+      (pt 2.2 2.6)
+      (pt 2.2 -2.6)
+      (pt -2.2 -2.6)
+      (pt -2.2 2.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.2 1.33)
+      (pt -0.93 2.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.85 2.6)
+      (pt 1.85 2.6)
+      (pt 1.85 -2.6)
+      (pt -1.85 -2.6)
+      (pt -1.85 2.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.05 2.58)
+      (pt -2.2 2.58))))
+   (leg 1 (pt -3.125 1.905) (padstack 0))
+   (leg 2 (pt -3.125 0.635) (padstack 0))
+   (leg 3 (pt -3.125 -0.635) (padstack 0))
+   (leg 4 (pt -3.125 -1.905) (padstack 0))
+   (leg 5 (pt 3.125 -1.905) (padstack 0))
+   (leg 6 (pt 3.125 -0.635) (padstack 0))
+   (leg 7 (pt 3.125 0.635) (padstack 0))
+   (leg 8 (pt 3.125 1.905) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.85 0 0 0))
+   )
+   (model "ACPL-227-50BE.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

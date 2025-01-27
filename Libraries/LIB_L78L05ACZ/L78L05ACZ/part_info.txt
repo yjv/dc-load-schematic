@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L78L05ACZ
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.3
+Released=2021-02-22 19:25:18
+Downloaded=2024-12-01 21:51:27
+3D=Y

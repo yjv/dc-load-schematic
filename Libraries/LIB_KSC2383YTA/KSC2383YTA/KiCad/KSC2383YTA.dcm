@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSC2383YTA
+D Fairchild KSC2383YTA NPN Bipolar Transistor, 1 A, 160 V, 3-Pin TO-92
+K
+F http://www.onsemi.com/pub/Collateral/KSC945-D.pdf
+$ENDCMP
+#
+#End Doc Library
