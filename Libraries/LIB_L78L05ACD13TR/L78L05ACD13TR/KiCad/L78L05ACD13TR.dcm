@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L05ACD13TR
+D Voltage Regulator 5V 0.1A SOIC8 L78L05ACD13TR, Voltage Regulator, 0.1A 5 V, +/-5%, 8-Pin, SOIC
+K
+F http://componentsearchengine.com/Datasheets/1/L78L05ACD13TR.pdf
+$ENDCMP
+#
+#End Doc Library

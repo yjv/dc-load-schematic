@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TBA_1-1219"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-07-14-11:51:39)
+    (mountForm default
+        (footprintRef "TBA1")
+        (spec "System")
+    )
+)

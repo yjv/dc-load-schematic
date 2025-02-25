@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L78L33ACD13TR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2020-11-09 13:09:57
+Downloaded=2025-02-10 16:21:37
+3D=Y

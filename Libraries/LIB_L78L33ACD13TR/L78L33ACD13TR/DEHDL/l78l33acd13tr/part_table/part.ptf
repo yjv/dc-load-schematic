@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L33ACD13TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L33ACD13TR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-L78L33ACD-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L33ACD13TR?qs=IvJi5hqn0Wq3%252BWf1YegaPg%3D%3D", "Linear Voltage Regulators 3.3V 0.1A Positive", "https://www.st.com/resource/en/datasheet/l78l.pdf", "1.75 mm"
+END_PART
+
+END.

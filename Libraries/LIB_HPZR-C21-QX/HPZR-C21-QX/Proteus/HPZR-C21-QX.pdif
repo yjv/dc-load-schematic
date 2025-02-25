@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HPZR-C21-QX"
+   (description "vp_HPZR-Q_SER - High power voltage regulator diodes@en-us")
+   (family "DIO")
+   (package "HPZRC21QX")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/HPZR-Q_SER.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "771-HPZR-C21-QX")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/HPZR-C21-QX?qs=By6Nw2ByBD1nxsxdKWCsgg%3D%3D")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "HPZR-C21-QX")
+   (gate
+    (symbol "HPZR-C21-QX")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "HPZR-C21-QX"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HPZRC21QX"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.3 0.85)
+      (pt 1.3 0.85)
+      (pt 1.3 -0.85)
+      (pt -1.3 -0.85)
+      (pt -1.3 0.85))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3 1.85)
+      (pt 3 1.85)
+      (pt 3 -1.85)
+      (pt -3 -1.85)
+      (pt -3 1.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.4 0.85)
+      (pt 0.4 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.4 -0.85)
+      (pt -0.4 -0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.4 0)
+      (arc (pt -2.400 0.000) (pt -2.500 -0.050) (pt -2.400 0.050) (start 180.0) (sweep .0))
+      (pt -2.5 0)
+      (arc (pt -2.500 0.000) (pt -2.500 -0.050) (pt -2.400 0.050) (start 180.0) (sweep -180.0))
+      (pt -2.4 0))))
+   (leg 1 (pt -1.400 0.000) (padstack 0))
+   (leg 2 (pt 1.400 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1.200))
+   )
+   (model "HPZR-C21-QX.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

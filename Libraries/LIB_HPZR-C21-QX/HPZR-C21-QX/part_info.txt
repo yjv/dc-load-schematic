@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=HPZR-C21-QX
+PartCategory=Diode
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2022-09-15 07:15:17
+Downloaded=2025-01-29 01:34:59
+3D=Y

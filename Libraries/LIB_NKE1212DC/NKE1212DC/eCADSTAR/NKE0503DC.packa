@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NKE1212DC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-25-12:05:10)
+    (mountForm default
+        (footprintRef "NKE0503DC")
+        (spec "System")
+    )
+)

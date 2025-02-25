@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ISO7741FQDBQRQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-16-14:44:23)
+    (mountForm default
+        (footprintRef "SOP64P600X175-16N")
+        (spec "System")
+    )
+)

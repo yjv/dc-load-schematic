@@ -14,4 +14,5 @@
   (lib (name "L78L08ABZTR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_L78L08ABZTR/L78L08ABZTR/KiCad/L78L08ABZTR.kicad_sym")(options "")(descr ""))
   (lib (name "L78L05ACZ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_L78L05ACZ/L78L05ACZ/KiCad/L78L05ACZ.kicad_sym")(options "")(descr ""))
   (lib (name "MSC017SMA120")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_MSC017SMA120/MSC017SMA120/Kicad/MSC017SMA120.kicad_sym")(options "")(descr ""))
+  (lib (name "NMG1224SC")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_NMG1224SC/NMG1224SC/Kicad/NMG1224SC.kicad_sym")(options "")(descr ""))
 )

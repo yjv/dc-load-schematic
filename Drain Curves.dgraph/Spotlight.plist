@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>Drain Curves
+V_{DS}
+I_D
+V_{GS}=20V
+I_D
+V_{GS}=20V
+V_{GS}=8V
+V_{GS}=7V
+V_{GS}=7.55V
+V_{GS}=6V
+V_{GS}=2V
+
+Constant Current
+V_{DS}
+V{GS}
+20A
+17A
+14A
+10A
+8A
+5A
+2A
+1A
+250mA
+50mA
+10mA
+Larger V_{GS} Swings Required
+Outside Saturation
+Greater Precision Required
+In Saturation
+
+Constant Resistance Voltage Input
+V_{DS}
+V_{GS}
+20m\Omega
+30m\Omega
+50m\Omega
+100m\Omega
+250m\Omega
+500m\Omega
+1\Omega
+2.5\Omega
+5\Omega
+10\Omega
+25\Omega
+50\Omega
+100\Omega
+250\Omega
+500\Omega
+1k\Omega
+2k\Omega
+5k\Omega
+10k\Omega
+Highest Values Require
+The Greatest Precision
+
+Constant Power Voltage Input
+V_{DS}
+V_{GS}
+200W
+150W
+100W
+50W
+25W
+10W
+5W
+2.5W
+1W
+500mW
+250mW
+100mW
+50mW
+Lowest Values Require
+The Greatest Precision
+
+Constant Voltage
+I_D
+V_{GS}
+100mV
+150mV
+250mV
+250mV
+1V
+10V
+600V
+Highest Values Require
+The Greatest Precision
+
+Constant Resistance Current Input
+I_D
+V_{GS}
+20m\Omega
+20m\Omega
+30m\Omega
+50m\Omega
+100m\Omega
+250m\Omega
+500m\Omega
+1\Omega
+2.5\Omega
+5\Omega
+25\Omega
+100\Omega
+500\Omega
+2k\Omega
+10k\Omega
+Highest Values Require
+The Greatest Precision
+
+Constant Power Current Input
+I_D
+V_{GS}
+50mW
+100mW
+250mW
+500mW
+1W
+2.5W
+5W
+10W
+25W
+50W
+100W
+150W
+200W
+Highest Values Require
+The Greatest Precision
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

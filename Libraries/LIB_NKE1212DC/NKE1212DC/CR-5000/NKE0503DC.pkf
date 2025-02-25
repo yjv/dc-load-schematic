@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NKE0503DC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NKE0503DC")
+        (spec "default")
+    )
+)

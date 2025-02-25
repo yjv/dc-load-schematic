@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NMG1212SC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-03-27-12:59:59)
+    (mountForm default
+        (footprintRef "NMG0524SC")
+        (spec "System")
+    )
+)

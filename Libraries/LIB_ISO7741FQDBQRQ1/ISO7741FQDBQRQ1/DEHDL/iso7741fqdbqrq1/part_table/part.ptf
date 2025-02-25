@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO7741FQDBQRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO7741FQDBQRQ1" (!) = "", "SOP64P600X175-16N", "Small Outline Packages", "595-ISO7741FQDBQRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO7741FQDBQRQ1?qs=5aG0NVq1C4xioEZju0IsXg%3D%3D", "Automotive, High Speed, Robust EMC Quad-Channel Digital Isolators", "http://www.ti.com/lit/gpn/iso7741-q1", "1.75 mm"
+END_PART
+
+END.

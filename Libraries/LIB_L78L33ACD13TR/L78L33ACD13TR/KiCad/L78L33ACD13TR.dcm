@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L33ACD13TR
+D Linear Voltage Regulators 3.3V 0.1A Positive
+K
+F https://www.st.com/resource/en/datasheet/l78l.pdf
+$ENDCMP
+#
+#End Doc Library

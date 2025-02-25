@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=ISO7741FQDBQRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2019-09-16 14:44:23
+Downloaded=2025-02-11 01:09:26
+3D=Y

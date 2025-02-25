@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L06ACD13TR
+D L78L06ACD13TR, Voltage Regulator, 0.1A 6 V, +/-5%, 8-Pin, SOIC
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000446.pdf
+$ENDCMP
+#
+#End Doc Library

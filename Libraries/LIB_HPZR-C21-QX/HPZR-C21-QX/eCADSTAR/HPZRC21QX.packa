@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HPZR-C21-QX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-15-07:15:17)
+    (mountForm default
+        (footprintRef "HPZRC21QX")
+        (spec "System")
+    )
+)

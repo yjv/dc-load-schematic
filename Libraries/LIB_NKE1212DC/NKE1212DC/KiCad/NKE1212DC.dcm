@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NKE1212DC
+D Isolated DC/DC Converters 1W 12V 83mA Single Output
+K
+F https://power.murata.com/pub/data/power/ncl/kdc_nke.pdf
+$ENDCMP
+#
+#End Doc Library

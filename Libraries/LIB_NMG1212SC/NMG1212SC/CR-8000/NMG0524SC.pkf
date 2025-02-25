@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NMG0524SC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NMG0524SC")
+        (spec "default")
+    )
+)

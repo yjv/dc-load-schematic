@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L05ACD13TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L05ACD13TR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-L78L05ACD-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L05ACD13TR?qs=nGCvt7cgQipWptJJRQjUXw%3D%3D", "Voltage Regulator 5V 0.1A SOIC8 L78L05ACD13TR, Voltage Regulator, 0.1A 5 V, +/-5%, 8-Pin, SOIC", "http://componentsearchengine.com/Datasheets/1/L78L05ACD13TR.pdf", "1.75 mm"
+END_PART
+
+END.

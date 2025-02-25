@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NKE1212DC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "NKE1212DC" (!) = "", "NKE0503DC", "Other", "580-NKE1212DC", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NKE1212DC?qs=45LUuShSCQjTGaxfiqNLdQ%3D%3D", "Isolated DC/DC Converters 1W 12V 83mA Single Output", "https://power.murata.com/pub/data/power/ncl/kdc_nke.pdf", "5.65 mm"
+END_PART
+
+END.

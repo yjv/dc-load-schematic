@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HPZRC21QX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HPZRC21QX")
+        (spec "default")
+    )
+)

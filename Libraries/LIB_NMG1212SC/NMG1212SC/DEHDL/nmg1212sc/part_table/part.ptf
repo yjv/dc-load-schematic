@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NMG1212SC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "NMG1212SC" (!) = "", "NMG0524SC", "Other", "580-NMG1212SC", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NMG1212SC?qs=2as47fUcDMTJ%2FDloXOvjkQ%3D%3D", "Isolated DC/DC Converters 2W 12Vin 12Vout Single Output", "https://power.murata.com/pub/data/power/ncl/kdc_nmg.pdf", "10.15 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.NMG1212SC :1 ;Isolated DC/DC Converters 2W 12Vin 12Vout Single Output
+NMG0524SC
+*STM PS
+*NGS
+*PLB 1="+VIN" 2="-VIN" 4="-VOUT" 6="+VOUT"
+*MXP 4
+*DFN NMG1212SC
+~!Mouser Part Number (580-NMG1212SC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NMG1212SC?qs=2as47fUcDMTJ%2FDloXOvjkQ%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (NMG1212SC)
+~!Link Datasheet (https://power.murata.com/pub/data/power/ncl/kdc_nmg.pdf)
+~!Height (10.15mm)
+~!3D_Model (NMG1212SC)
+NMG1212SC
+1.1!U 2.1!U 4.1!U 6.1!U 

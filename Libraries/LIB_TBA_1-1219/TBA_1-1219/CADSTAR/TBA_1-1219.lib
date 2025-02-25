@@ -1,0 +1,16 @@
+.TBA_1-1219 :1 ;1 Watt DC/DC converter, industrial, +/-10% input, short circuit protection, unregulated, encapsulated, SIP-4
+TBA1
+*STM PS
+*NGS
+*PLB 1="-VIN (GND)" 2="+VIN (VCC)" 3="-VOUT" 4="+VOUT"
+*MXP 4
+*DFN TBA_1-1219
+~!Mouser Part Number (495-TBA1-1219)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TRACO-Power/TBA-1-1219?qs=byeeYqUIh0NCQGvSyBnWSw%3D%3D)
+~!Manufacturer_Name (Traco Power)
+~!Manufacturer_Part_Number (TBA 1-1219)
+~!Link Datasheet (https://tracopower.com/tba1-datasheet/)
+~!Height (9.65mm)
+~!3D_Model (TBA_1-1219)
+TBA_1-1219
+1.1!U 2.1!U 3.1!U 4.1!U 

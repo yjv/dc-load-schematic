@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HPZR-C21-QX
+D vp_HPZR-Q_SER - High power voltage regulator diodes@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/HPZR-Q_SER.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L78L06ACD13TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "L78L06ACD13TR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-L78L06ACD-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L06ACD13TR?qs=nGCvt7cgQioRPwLhgxb%2FbQ%3D%3D", "L78L06ACD13TR, Voltage Regulator, 0.1A 6 V, +/-5%, 8-Pin, SOIC", "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000446.pdf", "1.75 mm"
+END_PART
+
+END.

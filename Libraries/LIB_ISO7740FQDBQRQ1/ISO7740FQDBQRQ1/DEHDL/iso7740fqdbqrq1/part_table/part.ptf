@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO7740FQDBQRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO7740FQDBQRQ1" (!) = "", "SOP64P600X175-16N", "Small Outline Packages", "595-ISO7740FQDBQRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO7740FQDBQRQ1?qs=5aG0NVq1C4z0rUYP%252BlPzPA%3D%3D", "Digital Isolator CMOS 4-CH 100Mbps Automotive 16-Pin SSOP T/R", "https://www.ti.com/lit/gpn/iso7741-q1", "1.75 mm"
+END_PART
+
+END.

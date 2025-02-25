@@ -1,0 +1,9 @@
+Manufacturer=Traco Power
+PartNumber=TBA 1-1219
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=4
+Version=9.1
+Released=2019-11-01 13:45:10
+Downloaded=2025-02-10 16:22:06
+3D=Y

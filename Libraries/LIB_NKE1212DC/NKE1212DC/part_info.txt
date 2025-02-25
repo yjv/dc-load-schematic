@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=NKE1212DC
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2019-04-25 12:05:10
+Downloaded=2025-02-10 16:16:04
+3D=Y

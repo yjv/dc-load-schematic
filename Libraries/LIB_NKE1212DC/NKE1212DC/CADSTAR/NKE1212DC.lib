@@ -1,0 +1,16 @@
+.NKE1212DC :1 ;Isolated DC/DC Converters 1W 12V 83mA Single Output
+NKE0503DC
+*STM PS
+*NGS
+*PLB 1="-VIN" 4="+VIN" 5="+VOUT" 7="-VOUT"
+*MXP 4
+*DFN NKE1212DC
+~!Mouser Part Number (580-NKE1212DC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NKE1212DC?qs=45LUuShSCQjTGaxfiqNLdQ%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (NKE1212DC)
+~!Link Datasheet (https://power.murata.com/pub/data/power/ncl/kdc_nke.pdf)
+~!Height (5.65mm)
+~!3D_Model (NKE1212DC)
+NKE1212DC
+1.1!U 4.1!U 5.1!U 7.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBA_1-1219
+D 1 Watt DC/DC converter, industrial, +/-10% input, short circuit protection, unregulated, encapsulated, SIP-4
+K
+F https://tracopower.com/tba1-datasheet/
+$ENDCMP
+#
+#End Doc Library
