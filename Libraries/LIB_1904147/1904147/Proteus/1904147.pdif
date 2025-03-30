@@ -1,0 +1,137 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1904147"
+   (description "PCB Terminal Block 1904147")
+   (family "CON")
+   (package "1904147")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00056479.pdf")
+   (attribute "Mouser Part Number" "651-1904147")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1904147?qs=71zq8cT40ISVFWCxilHzsw%3D%3D")
+   (attribute "Manufacturer_Name" "Phoenix Contact")
+   (attribute "Manufacturer_Part_Number" "1904147")
+   (gate
+    (symbol "1904147")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "1904147"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 300) (pt 600 300) (pt 600 -300) (pt 200 -300) (pt 200 300) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 500) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 -500) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "1904147"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -9.52 8)
+      (pt 9.52 8)
+      (pt 9.52 -8)
+      (pt -9.52 -8)
+      (pt -9.52 8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.52 9)
+      (pt 10.52 9)
+      (pt 10.52 -9.075)
+      (pt -10.52 -9.075)
+      (pt -10.52 9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.26 8)
+      (pt 9.52 8)
+      (pt 9.52 -8)
+      (pt 1.76 -8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.76 -8)
+      (pt 1.26 -8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.24 -8)
+      (pt -9.52 -8)
+      (pt -9.52 8)
+      (pt -1.24 8))))
+   (leg 1 (pt -4.760 3.000) (padstack 0))
+   (leg 2 (pt 4.760 3.000) (padstack 0))
+   (leg 3 (pt 0.000 6.600) (padstack 3))
+   (leg 4 (pt 0.000 -6.800) (padstack 4))
+   (padstack 0
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (round 2.100))
+    (pad (layer INNER) (round 2.100))
+    (pad (layer BCOP) (round 2.100))
+   )
+   (padstack 3
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (padstack 4
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (model "1904147.stp"
+    (euler 90 0 -90)
+    (offset -9.489999771118164 -8.109999656677246 0.550000011920929)
+   )
+  )
+ )
+)

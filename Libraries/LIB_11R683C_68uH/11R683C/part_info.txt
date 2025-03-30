@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=11R683C
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.5
+Released=2019-10-14 16:24:56
+Downloaded=2025-03-21 14:30:42
+3D=Y

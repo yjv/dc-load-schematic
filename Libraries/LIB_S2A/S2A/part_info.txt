@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=S2A
+PartCategory=Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=2.1
+Released=2018-07-26 06:56:40
+Downloaded=2025-03-21 21:41:50
+3D=Y

@@ -1,0 +1,16 @@
+.11R683C :1 ;Murata 68 uH +/-10% Radial Inductor, Max SRF:1kHz, 0.4A Idc, 0.85 Rdc 1100R
+"11R683C"
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 11R683C
+~!Mouser Part Number (580-11R683C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/11R683C?qs=gLyyx31KZaC4f%252BbxyZuUbg%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (11R683C)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1100r.pdf)
+~!Height (7.5mm)
+~!3D_Model (11R683C)
+"11R683C"
+1.1!U 2.1!U 

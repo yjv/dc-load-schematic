@@ -1,0 +1,16 @@
+.NMA1209SC :1 ;Isolated Module DC DC Converter 2 Output 9V -9V 55mA, 55mA 10.8V - 13.2V Input
+NMA1209SC
+*STM PS
+*NGS
+*PLB 1="+VIN" 2="-VIN" 4="-VOUT" 5="OV" 6="+VOUT"
+*MXP 5
+*DFN NMA1209SC
+~!Mouser Part Number (580-NMA1209SC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NMA1209SC?qs=Z7IUn5gUMVNP8y%252Bxli9kPg%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (NMA1209SC)
+~!Link Datasheet (https://www.murata.com/products/productdata/8807031013406/kdc-nma.pdf)
+~!Height (10.25mm)
+~!3D_Model (NMA1209SC)
+NMA1209SC
+1.1!U 2.1!U 4.1!U 5.1!U 6.1!U 

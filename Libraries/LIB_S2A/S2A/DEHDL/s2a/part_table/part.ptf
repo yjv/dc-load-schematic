@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S2A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "S2A" (!) = "", "DIOM5336X245N", "Diodes Moulded", "512-S2A", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/S2A?qs=RJwZ8kJo1mjHOxt0JeuTsQ%3D%3D", "High-Current Capability, 2 A Rated; Fast Response: 2 us Trr; Glass Passivated Junction; High-Surge Current Capability, 50 A2s IFSM; Low-Forward Voltage Drop, 1.15 V VF Max at 2 A; UL Certified, UL #E258596; NRV Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant", "https://www.onsemi.com/pub/Collateral/S2M-D.PDF", "2.45 mm"
+END_PART
+
+END.

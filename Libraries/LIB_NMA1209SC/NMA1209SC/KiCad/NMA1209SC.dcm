@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NMA1209SC
+D Isolated Module DC DC Converter 2 Output 9V -9V 55mA, 55mA 10.8V - 13.2V Input
+K
+F https://www.murata.com/products/productdata/8807031013406/kdc-nma.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_858414"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-09-14:44:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "3386G-1-472LF")
+)
+
+
+(pinAssign "ECS_858414"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-09-14:44:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_858414")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "3386G-1-472LF")
+)
+
+
+(part "3386G-1-472LF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-09-14:44:53)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "3386G-1-472LF")
+    (pinAssignRef "ECS_858414")
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "VR")
+    (property "description" "Trimmer Resistors - Through Hole 3/8\" 4.7Kohms 10% 0.5Watts Square")
+    (property "Mouser_Part_Number" "652-3386G-1-472LF")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/3386G-1-472LF?qs=jh2Y1wKDsmisnPC5JCu25Q%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "3386G-1-472LF")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/3386G-1-503LF.pdf")
+    (property "compAreaTopHeight" 4.83)
+)
+
+

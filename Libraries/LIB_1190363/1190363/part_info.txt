@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1190363
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2022-07-02 08:09:52
+Downloaded=2025-03-24 00:19:42
+3D=Y

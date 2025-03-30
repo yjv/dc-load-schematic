@@ -1,0 +1,16 @@
+.1984798 :1 ;PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 200 V, nominal cross section: 1.5 mm?, Number of potentials: 5, Number of rows: 1, Number of positions per row: 5, product range: PT 1,5/..-V, pitch: 3.5 mm, connection method: Screw connection with wire protector, mounting: Wave soldering, conductor/PCB connection direction: 90 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 4.5 mm, type of packaging: packed in cardboard
+"1984798"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN 1984798
+~!Mouser Part Number (651-1984798)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984798?qs=cPKw9uGCF4QHdPnkXffh9A%3D%3D)
+~!Manufacturer_Name (Phoenix Contact)
+~!Manufacturer_Part_Number (1984798)
+~!Link Datasheet (http://www.phoenixcontact.com/de/produkte/1984798/pdf)
+~!Height (7.7mm)
+~!3D_Model (1984798)
+"1984798"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

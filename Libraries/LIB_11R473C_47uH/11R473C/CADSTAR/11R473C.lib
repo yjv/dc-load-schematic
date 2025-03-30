@@ -1,0 +1,16 @@
+.11R473C :1 ;Fixed Inductors Ind 47uH 0.5A Radial Leads
+"11R473C"
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 11R473C
+~!Mouser Part Number (580-11R473C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/11R473C?qs=gLyyx31KZaDYIC8Ij6WybA%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (11R473C)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1100r.pdf)
+~!Height (7.5mm)
+~!3D_Model (11R473C)
+"11R473C"
+1.1!U 2.1!U 

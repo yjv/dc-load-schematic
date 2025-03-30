@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RA_T2X_64E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Ohmite", "RA-T2X-64E" (!) = "", "RAT2X64E", "Other", "588-RA-T2X-64E", "https://www.mouser.co.uk/ProductDetail/Ohmite/RA-T2X-64E?qs=wmFqszA%252Be7Ma8WH5xwhOHA%3D%3D", "", "", "Heat Sink TO-218, TO-220, TO-247 Aluminum 4.0W @ 20C Board Level, Vertical", "https://www.ohmite.com/assets/docs/sink_f_r.pdf?r=false", "63.75 mm"
+END_PART
+
+END.

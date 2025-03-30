@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RA-T2X-64E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-10-16-11:58:22)
+    (mountForm default
+        (footprintRef "RAT2X64E")
+        (spec "System")
+    )
+)

@@ -1,0 +1,43 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.48",
+    "c_para": {
+      "pre": "R?",
+      "name": "PCS-0R0047D1",
+      "package": "RES-TH_L22.3-W4.5-P7.62-L",
+      "Supplier": "LCSC",
+      "Supplier Part": "C3203410",
+      "Manufacturer": "Riedon",
+      "Manufacturer Part": "PCS-0R0047D1",
+      "nameAlias": "Value",
+      "Value": "4.7mΩ",
+      "JLCPCB Part Class": "Extended Part",
+      "Contributor": "lcsc"
+    },
+    "x": 410,
+    "y": 320,
+    "puuid": "70e28c8b2316487983c6f65271cce56a",
+    "uuid": "7adad85ddf5d44bca3f6bec612aed6ef",
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true,
+    "utime": 1741757467
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~410~320",
+  "shape": [
+    "P~show~0~4~395~335~180~gge10~0^^395~335^^M 395 335 h 10~#880000^^1~408.7~339~0~I~start~~~#0000FF^^1~404.5~334~0~4~end~~~#0000FF^^0~402~335^^0~M 405 338 L 408 335 L 405 332",
+    "P~show~0~3~395~325~180~gge31~0^^395~325^^M 395 325 h 10~#880000^^1~408.7~329~0~U~start~~~#0000FF^^1~404.5~324~0~3~end~~~#0000FF^^0~402~325^^0~M 405 328 L 408 325 L 405 322",
+    "P~show~0~2~395~315~180~gge52~0^^395~315^^M 395 315 h 10~#880000^^1~408.7~319~0~U~start~~~#0000FF^^1~404.5~314~0~2~end~~~#0000FF^^0~402~315^^0~M 405 318 L 408 315 L 405 312",
+    "P~show~0~1~395~305~180~gge73~0^^395~305^^M 395 305 h 10~#880000^^1~408.7~309~0~I~start~~~#0000FF^^1~404.5~304~0~1~end~~~#0000FF^^0~402~305^^0~M 405 308 L 408 305 L 405 302",
+    "E~410~300~1.5~1.5~#880000~1~0~#880000~gge94~0",
+    "R~405~295~2~2~20~50~#880000~1~0~none~gge97~0~"
+  ],
+  "BBox": {
+    "x": 394,
+    "y": 294.6,
+    "width": 31,
+    "height": 50.4
+  },
+  "colors": {}
+}

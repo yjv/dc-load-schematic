@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NMA1209SC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-01-07:14:27)
+    (mountForm default
+        (footprintRef "NMA1209SC")
+        (spec "System")
+    )
+)

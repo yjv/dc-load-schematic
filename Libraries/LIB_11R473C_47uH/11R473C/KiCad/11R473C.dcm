@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 11R473C
+D Fixed Inductors Ind 47uH 0.5A Radial Leads
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1100r.pdf
+$ENDCMP
+#
+#End Doc Library

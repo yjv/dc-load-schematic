@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "3386G1503LF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "3386G1503LF")
+        (spec "default")
+    )
+)

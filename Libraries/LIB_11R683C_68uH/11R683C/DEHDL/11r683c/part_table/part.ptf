@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '11R683C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "11R683C" (!) = "", "11R683C", "Other", "580-11R683C", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/11R683C?qs=gLyyx31KZaC4f%252BbxyZuUbg%3D%3D", "Murata 68 uH +/-10% Radial Inductor, Max SRF:1kHz, 0.4A Idc, 0.85 Rdc 1100R", "https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1100r.pdf", "7.5 mm"
+END_PART
+
+END.

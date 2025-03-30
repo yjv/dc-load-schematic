@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NMA1209SC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "NMA1209SC" (!) = "", "NMA1209SC", "Other", "580-NMA1209SC", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/NMA1209SC?qs=Z7IUn5gUMVNP8y%252Bxli9kPg%3D%3D", "Isolated Module DC DC Converter 2 Output 9V -9V 55mA, 55mA 10.8V - 13.2V Input", "https://www.murata.com/products/productdata/8807031013406/kdc-nma.pdf", "10.25 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "11R473C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-03-20:28:28)
+    (mountForm default
+        (footprintRef "11R473C")
+        (spec "System")
+    )
+)

@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_451995"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-10-14:55:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+        (port "4" (symbPinId 4) (portType INOUT))
+    )
+    (property "symbolName" "1904147")
+)
+
+
+(pinAssign "ECS_451995"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-10-14:55:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "4") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_451995")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+                (port "4" (match "4"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1904147")
+)
+
+
+(part "1904147"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-10-14:55:53)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "1904147")
+    (pinAssignRef "ECS_451995")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "4") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "PCB Terminal Block 1904147")
+    (property "Mouser_Part_Number" "651-1904147")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1904147?qs=71zq8cT40ISVFWCxilHzsw%3D%3D")
+    (property "Manufacturer_Name" "Phoenix Contact")
+    (property "Manufacturer_Part_Number" "1904147")
+    (property "Datasheet_Link" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00056479.pdf")
+)
+
+

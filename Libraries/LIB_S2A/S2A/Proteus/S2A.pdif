@@ -1,0 +1,117 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "S2A"
+   (description "High-Current Capability, 2 A Rated; Fast Response: 2 us Trr; Glass Passivated Junction; High-Surge Current Capability, 50 A2s IFSM; Low-Forward Voltage Drop, 1.15 V VF Max at 2 A; UL Certified, UL #E258596; NRV Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant")
+   (family "DIO")
+   (package "DIOM5336X245N")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/S2M-D.PDF")
+   (attribute "Geometry.Height" "2.45mm")
+   (attribute "Mouser Part Number" "512-S2A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/S2A?qs=RJwZ8kJo1mjHOxt0JeuTsQ%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "S2A")
+   (gate
+    (symbol "S2A")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "S2A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIOM5336X245N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.55 2.225)
+      (pt 3.55 2.225)
+      (pt 3.55 -2.225)
+      (pt -3.55 -2.225)
+      (pt -3.55 2.225))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.67 1.812)
+      (pt 2.67 1.812)
+      (pt 2.67 -1.812)
+      (pt -2.67 -1.812)
+      (pt -2.67 1.812))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.67 0.738)
+      (pt -1.595 1.812))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.67 1.812)
+      (pt -3.225 1.812))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.67 -1.812)
+      (pt 2.67 -1.812))))
+   (leg 1 (pt -2.15 0) (padstack 0))
+   (leg 2 (pt 2.15 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.15 2.3 0 0 0))
+   )
+   (model "S2A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=3386G-1-472LF
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=2.1
+Released=2019-01-09 14:44:53
+Downloaded=2025-03-21 14:45:32
+3D=Y

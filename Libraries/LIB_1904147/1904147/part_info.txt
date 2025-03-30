@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1904147
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2018-09-10 14:55:53
+Downloaded=2025-03-24 00:35:36
+3D=Y

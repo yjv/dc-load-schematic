@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1904147'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Phoenix Contact", "1904147" (!) = "", "1904147", "Other", "651-1904147", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1904147?qs=71zq8cT40ISVFWCxilHzsw%3D%3D", "PCB Terminal Block 1904147", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00056479.pdf"
+END_PART
+
+END.

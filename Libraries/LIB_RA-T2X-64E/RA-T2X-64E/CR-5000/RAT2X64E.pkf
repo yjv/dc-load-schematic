@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RAT2X64E"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RAT2X64E")
+        (spec "default")
+    )
+)

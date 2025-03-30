@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S2A
+D High-Current Capability, 2 A Rated; Fast Response: 2 us Trr; Glass Passivated Junction; High-Surge Current Capability, 50 A2s IFSM; Low-Forward Voltage Drop, 1.15 V VF Max at 2 A; UL Certified, UL #E258596; NRV Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/S2M-D.PDF
+$ENDCMP
+#
+#End Doc Library

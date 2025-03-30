@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1984785
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=3.1
+Released=2022-01-13 06:30:42
+Downloaded=2025-03-23 23:31:17
+3D=Y

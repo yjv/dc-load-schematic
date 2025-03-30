@@ -1,0 +1,16 @@
+.3386G-1-472LF :1 ;Trimmer Resistors - Through Hole 3/8" 4.7Kohms 10% 0.5Watts Square
+"3386G1503LF"
+*STM VR
+*NGS
+*PLB 1="CCW" 2="WIPER" 3="CW"
+*MXP 3
+*DFN 3386G-1-472LF
+~!Mouser Part Number (652-3386G-1-472LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/3386G-1-472LF?qs=jh2Y1wKDsmisnPC5JCu25Q%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (3386G-1-472LF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/3386G-1-503LF.pdf)
+~!Height (4.83mm)
+~!3D_Model (3386G-1-472LF)
+"3386G-1-472LF"
+1.1!U 2.1!U 3.1!U 

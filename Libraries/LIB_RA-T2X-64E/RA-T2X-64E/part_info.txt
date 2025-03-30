@@ -1,0 +1,9 @@
+Manufacturer=Ohmite
+PartNumber=RA-T2X-64E
+PartCategory=Hardware
+PackageCategory=Other
+PinCount=2
+Version=2.6
+Released=2020-02-09 14:20:32
+Downloaded=2025-03-26 15:07:22
+3D=Y

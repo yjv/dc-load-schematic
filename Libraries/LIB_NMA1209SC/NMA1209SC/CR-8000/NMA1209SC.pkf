@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NMA1209SC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NMA1209SC")
+        (spec "default")
+    )
+)

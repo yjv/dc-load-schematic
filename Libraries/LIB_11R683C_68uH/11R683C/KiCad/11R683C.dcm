@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 11R683C
+D Murata 68 uH +/-10% Radial Inductor, Max SRF:1kHz, 0.4A Idc, 0.85 Rdc 1100R
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1100r.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1190366'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Phoenix Contact", "1190366" (!) = "", "1190366", "Other", "651-1190366", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190366?qs=QNEnbhJQKvbQxItN%252B93NHg%3D%3D", "5 Position Wire to Board Terminal Block 30 (150) Angle with Board 0.197" (5.00mm) Through Hole", "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1190366&library=usen&tab=1", "20.28 mm"
+END_PART
+
+END.

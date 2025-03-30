@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RA-T2X-64E
+D Heat Sink TO-218, TO-220, TO-247 Aluminum 4.0W @ 20C Board Level, Vertical
+K
+F https://www.ohmite.com/assets/docs/sink_f_r.pdf?r=false
+$ENDCMP
+#
+#End Doc Library
