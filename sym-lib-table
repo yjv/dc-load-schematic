@@ -16,4 +16,5 @@
   (lib (name "MSC017SMA120")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_MSC017SMA120/MSC017SMA120/Kicad/MSC017SMA120.kicad_sym")(options "")(descr ""))
   (lib (name "NMG1224SC")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_NMG1224SC/NMG1224SC/Kicad/NMG1224SC.kicad_sym")(options "")(descr ""))
   (lib (name "VM1-038-1AE")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_VM1-038-1AE/VM1-038-1AE/Kicad/VM1-038-1AE.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_Adafruit/Adafruit/Kicad.kicad_sym")(options "")(descr ""))
 )

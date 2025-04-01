@@ -46,4 +46,5 @@
   (lib (name "1904147")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_1904147/1904147/KiCad")(options "")(descr ""))
   (lib (name "RA-T2X-64E")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_RA-T2X-64E/RA-T2X-64E/KiCad")(options "")(descr ""))
   (lib (name "VM1-038-1AE")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_VM1-038-1AE/VM1-038-1AE/KiCad")(options "")(descr ""))
+  (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_Adafruit/Adafruit/Kicad.pretty")(options "")(descr ""))
 )

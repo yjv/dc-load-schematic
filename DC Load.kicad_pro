@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.5,
+          "height": 4.5,
+          "width": 1.905
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|141544000|43305000|7282b061-9a22-4928-afeb-5abce898d8a3|95230547-2652-4497-bb6d-93870da3ebe2",
+        "courtyards_overlap|155372000|49355000|7282b061-9a22-4928-afeb-5abce898d8a3|43d62d39-4110-4a39-adb1-a609e68a32e9",
+        "courtyards_overlap|155372000|49355000|95230547-2652-4497-bb6d-93870da3ebe2|43d62d39-4110-4a39-adb1-a609e68a32e9"
+      ],
       "meta": {
         "version": 2
       },
@@ -454,7 +458,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.16,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.3,
@@ -488,7 +492,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.16,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -498,14 +502,14 @@
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
+        "track_width": 0.3,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.16,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
