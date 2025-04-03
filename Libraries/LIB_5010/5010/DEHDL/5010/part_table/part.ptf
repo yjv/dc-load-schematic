@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5010'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Keystone Electronics", "5010" (!) = "", "5010", "Other", "534-5010", "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5010?qs=qOqV1E1P08SzD%252BWfk1wMXQ%3D%3D", "KEYSTONE - 5010 - TEST POINT, PCB, THROUGH HOLE", "", "8.28 mm"
+END_PART
+
+END.

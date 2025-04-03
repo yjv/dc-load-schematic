@@ -1,0 +1,101 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "5010"
+   (description "KEYSTONE - 5010 - TEST POINT, PCB, THROUGH HOLE")
+   (family "ANA")
+   (package "5010")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "8.28mm")
+   (attribute "Mouser Part Number" "534-5010")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5010?qs=qOqV1E1P08SzD%252BWfk1wMXQ%3D%3D")
+   (attribute "Manufacturer_Name" "Keystone Electronics")
+   (attribute "Manufacturer_Part_Number" "5010")
+   (gate
+    (symbol "5010")
+    (pin "1" 1 PS)
+   )
+  )
+  (symbol "5010"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "5010"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.59 2.59)
+      (pt 2.59 2.59)
+      (pt 2.59 -2.59)
+      (pt -2.59 -2.59)
+      (pt -2.59 2.59))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.59 0)
+      (arc (pt -1.590 0.000) (pt -1.590 -1.590) (pt 1.590 1.590) (start 180.0) (sweep -180.0))
+      (pt 1.59 0)
+      (arc (pt 1.590 0.000) (pt -1.590 -1.590) (pt 1.590 1.590) (start 180.0) (sweep .0))
+      (pt -1.59 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.59 0)
+      (arc (pt -1.590 0.000) (pt -1.590 -1.590) (pt 1.590 1.590) (start 180.0) (sweep -180.0))
+      (pt 1.59 0)
+      (arc (pt 1.590 0.000) (pt -1.590 -1.590) (pt 1.590 1.590) (start 180.0) (sweep .0))
+      (pt -1.59 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.2)
+      (arc (pt 0.000 -2.200) (pt -0.050 -2.200) (pt 0.050 -2.100) (start 180.0) (sweep -90.0))
+      (pt 0 -2.1)
+      (arc (pt 0.000 -2.100) (pt -0.050 -2.200) (pt 0.050 -2.100) (start 180.0) (sweep 90.0))
+      (pt 0 -2.2))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.6)
+    (plated true)
+    (pad (layer TCOP) (round 2.400))
+    (pad (layer INNER) (round 2.400))
+    (pad (layer BCOP) (round 2.400))
+   )
+   (model "5010.stp"
+    (euler 0 0 0)
+    (offset 0 0 0.20000000298023224)
+   )
+  )
+ )
+)

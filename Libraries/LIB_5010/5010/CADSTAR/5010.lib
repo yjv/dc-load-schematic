@@ -1,0 +1,16 @@
+.5010 :1 ;KEYSTONE - 5010 - TEST POINT, PCB, THROUGH HOLE
+"5010"
+*STM TP
+*NGS
+*PLB 1="1"
+*MXP 1
+*DFN 5010
+~!Mouser Part Number (534-5010)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5010?qs=qOqV1E1P08SzD%252BWfk1wMXQ%3D%3D)
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (5010)
+~!Link Datasheet (-)
+~!Height (8.28mm)
+~!3D_Model (5010)
+"5010"
+1.1!U 

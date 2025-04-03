@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=5010
+PartCategory=Test Point
+PackageCategory=Other
+PinCount=1
+Version=2.1
+Released=2016-05-19 08:24:07
+Downloaded=2025-04-03 15:06:01
+3D=Y
